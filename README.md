@@ -1,4 +1,4 @@
-\🐱 ¡Bienvenido al perfil de Draxi! ☕🇩🇪
+🐱 ¡Bienvenido al perfil de Draxi! ☕🇩🇪
 
 
 
@@ -10,41 +10,47 @@
 
 
 
-&#x20; 🐾 \Aprendiz de Programador | Amante de los Gatos \& el Café\ ☕
+&#x20;   | Aprendiz de Programador | Amante de los Gatos \& el Café | 
+
+
+𐔌՞ ܸ.ˬ.ܸ՞𐦯 Sobre mí    
+ ⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠟⠛⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿
+⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿
+⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿
+⣿⣿⣿⣧⠀⠀⠀⠀⣠⣾⣿⣿⣿⣆⠀⠀⠀⠀⠀⣠⣾⣿⣿⣆⠀⠀⢀⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠀⠀⠀⢸⣿⣿⣿⡃⠀⣿⡀⠀⠀⠀⠀⣿⠁⠈⣿⣿⡀⠀⠈⣿⣿⣿⣿⣿
+⣿⣿⣿⡟⠀⠀⠀⠈⢿⣿⣿⣷⣴⡿⠀⠀⠀⠀⠀⢿⣦⣴⣿⡿⠁⠀⠀⣿⣿⣿⣿⣿
+⡿⠿⠿⠿⠀⠀⠀⠀⠀⠉⠉⠉⠉⠀⠀⠀⠀⠁⠀⠈⠙⠛⠋⠀⠀⠀⠀⠛⣛⡛⠛⢻
+⣷⣶⣶⡶⠦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠿⠿⠿⢿⣿
+⣯⣥⣴⣶⡿⠓⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠚⠿⢿⣷⣿⣷⣤
+⣿⣿⣋⣥⣶⣿⣿⣿⣶⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣴⣾⣿⣿⣿⣶⣤⣝⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿
 
 
 
-</div>
+🐱 \Fanático de los gatos:\ Siempre en compañía felina mientras escribo código.
+
+☕ \Combustible:\*\* Café por las mañanas, café por las tardes.
+
+\ 🇩🇪 \Intereses:\Fascinado por la cultura, el idioma y la historia de Alemania (¡Guten Tag!).
+
+\ 💻 \Camino dev:\ Aprendiendo Git, GitHub y lógica de programación paso a paso.
 
 
 
-\---
-
-
-
-\ 🙋‍♂️ Sobre mí
-
-
-
-\* 🐱 \*\*Fanático de los gatos:\*\* Siempre en compañía felina mientras escribo código.
-
-\* ☕ \*\*Combustible:\*\* Café por las mañanas, café por las tardes.
-
-\* 🇩🇪 \*\*Intereses:\*\* Fascinado por la cultura, el idioma y la historia de Alemania (\*Guten Tag!\*).
-
-\* 💻 \*\*Camino dev:\*\* Aprendiendo Git, GitHub y lógica de programación paso a paso.
-
-
-
-\---
-
-
-
-\💻 Un gatito impreso en código (Python)
-
-
-
-```python
+\💻 . . . ⇢ ˗ˏˋUn gatito impreso en código (Python)
 
 def maullar():
 
