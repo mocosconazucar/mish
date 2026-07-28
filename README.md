@@ -1,4 +1,4 @@
-\# 🐱 ¡Bienvenido al perfil de Draxi! ☕🇩🇪
+\🐱 ¡Bienvenido al perfil de Draxi! ☕🇩🇪
 
 
 
@@ -6,11 +6,11 @@
 
 
 
-&#x20; <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p5NXZ3ZmtscWxseHNycmsydG13cGZzNWw1Znd2eXZtOHlybTh2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BzyTuYCmvSORqs1ABM/giphy.gif" width="220" alt="Gato programador"/>
+&#x20; <img src=https://media1.tenor.com/m/eB0mUpo2_9AAAAAC/%E5%B9%BC%E5%A5%B3%E6%88%A6%E8%A8%98-y%C5%8Djo-senki.gif
 
 
 
-&#x20; ### 🐾 \*Aprendiz de Programador | Amante de los Gatos \& el Café\* ☕
+&#x20; 🐾 \Aprendiz de Programador | Amante de los Gatos \& el Café\ ☕
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-\### 🙋‍♂️ Sobre mí
+\ 🙋‍♂️ Sobre mí
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-\### 💻 Un gatito impreso en código (Python)
+\💻 Un gatito impreso en código (Python)
 
 
 
