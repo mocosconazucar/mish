@@ -51,12 +51,15 @@
 
  💻 ⇢ ˗ˏˋ Un gatito impreso en código (Python)
 
-<pre>
+<table>
+  <tr>
+    <td valign="center">
+
+```python
 def maullar():
     gato = """
      /\_/\  
-    ( o.o )   <img src="https://c.tenor.com/bkjf7tFg1D0AAAAC/uma-musume-matikanetannhauser.gif" width="60" align="top"/>
+    ( o.o ) 
      > ^ <  Meow! Draxi estuvo aquí.
     """
     print(gato)
-</pre>
