@@ -55,7 +55,7 @@
 def maullar():
     gato = """
      /\_/\  
-    ( o.o )   <img src="[https://media.tenor.com/bkjf7tFg1D0AAAAj/uma-musume-matikanetannhauser.gif](https://media.tenor.com/bkjf7tFg1D0AAAAj/uma-musume-matikanetannhauser.gif)" width="60" align="top"/>
+    ( o.o )   <img src="https://c.tenor.com/bkjf7tFg1D0AAAAC/uma-musume-matikanetannhauser.gif" width="60" align="top"/>
      > ^ <  Meow! Draxi estuvo aquí.
     """
     print(gato)
