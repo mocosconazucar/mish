@@ -48,15 +48,15 @@
 
 °💻 Camino dev: Aprendiendo Git, GitHub y lógica de programación paso a paso.
 
-💻 ⇢ ˗ˏˋ Un gatito impreso en código (Python)
 
-Python
+ 💻 ⇢ ˗ˏˋ Un gatito impreso en código (Python)
+
+<pre>
 def maullar():
     gato = """
      /\_/\  
-    ( o.o ) 
+    ( o.o )   <img src="[https://media.tenor.com/bkjf7tFg1D0AAAAj/uma-musume-matikanetannhauser.gif](https://media.tenor.com/bkjf7tFg1D0AAAAj/uma-musume-matikanetannhauser.gif)" width="60" align="top"/>
      > ^ <  Meow! Draxi estuvo aquí.
     """
     print(gato)
-
-maullar()
+</pre>
